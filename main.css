@@ -1,0 +1,35 @@
+.nav__item:hover,
+.nav__item:active{
+    background-color: rgba(155, 154, 154,0.5);
+}
+
+.comapny-intro{
+    position: relative;
+}
+
+.comapny-intro__name{
+    position: absolute;
+    top: 55%;
+    right: 45%;
+    color: rgba(255, 255, 255, 0.913);
+}
+
+.company-shortname{
+    background-color: rgba(26, 22, 22, 0.8);
+}
+
+.projects-image{
+    position: relative;
+}
+
+.projects-image__title{
+    position: absolute;
+    top: 0;
+    left: 0;
+    color: white;
+    background-color: black;
+}
+
+.footer{
+    background-color: black;
+}
